@@ -23,7 +23,7 @@
     justify-content: center;
 }
 
-.menu-lives h2:nth-child(2), 
+.menu-time h2:nth-child(2), 
 .menu-score h2:nth-child(2) {
     margin-top: 1rem;
 }
